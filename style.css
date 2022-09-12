@@ -62,7 +62,7 @@ body {
     border-radius: .5rem;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 576px) {
     .container{
         width: 320px;
     } 
